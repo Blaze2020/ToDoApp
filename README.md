@@ -1,6 +1,6 @@
 # ToDoApp
 
-A simple ToDoApp implemente in React.
+A simple ToDoApp implemented in React.
 
 ## Commads Used To install to Run the App localy in your system
 
